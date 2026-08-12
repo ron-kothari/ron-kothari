@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ron-kothari/ron-kothari/main/graphic%20for%20readme.gif" width="700" alt="Data Analytics Animation">
+<img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="700" alt="3D Data Analytics Dashboard Animation">
 
 <br/><br/>
 
