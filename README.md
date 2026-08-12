@@ -16,9 +16,9 @@
 
 ## 🧭 About Me
 
-Studying Computer Science, actively looking for full time roles in Business Analysis, IT Analysis, and Data Analytics. I have interned across Deloitte, Manulife, and the Canadian Children's Book Centre, where I worked on incident management frameworks, stakeholder communication, and cross functional problem solving.
+I am studying Computer Science and looking for full time roles in Business Analysis, IT Analysis, and Data Analytics. Through my internships I built incident management frameworks, worked closely with stakeholders, and learned how to solve problems that cross different teams.
 
-I like taking messy, real world data and turning it into something a business can actually act on. Most of my recent work lives in this GitHub, split across SQL analysis, Power BI dashboards, and Business Analyst documentation.
+I like taking messy data and turning it into something a business can actually use. Most of that work sits in this GitHub, spread across SQL projects, Power BI dashboards, and Business Analyst documentation. Take a look around and see what I have been building.
 
 - 🔭 Currently building out my data analytics portfolio and applying to full time roles
 - 🌱 Sharpening my Python and DAX skills project by project
@@ -80,17 +80,6 @@ I like taking messy, real world data and turning it into something a business ca
 
 I build interactive Tableau visualizations alongside my Power BI work.
 📍 [**View my Tableau Public profile**](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ronit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ron-kothari&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ron-kothari&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
