@@ -1,8 +1,6 @@
-<img src="https://marqueeinsights.com/wp-content/uploads/2023/10/glass.gif" width="100%" alt="Animated Power BI Data Analytics Dashboard">
-
 <div align="center">
 
-<img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="700" alt="3D Data Analytics Dashboard Animation">
+<img src="https://raw.githubusercontent.com/ron-kothari/ron-kothari/main/graphic%20for%20readme.gif" width="700" alt="Data Analytics Animation">
 
 <br/><br/>
 
@@ -14,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kothari/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
 
 </div>
 
