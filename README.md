@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Data Analytics Banner">
+
+<br/><br/>
+
 # Hey, I am Ron <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
@@ -9,10 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=0A66C2&style=for-the-badge)
-
-<br/>
-
-<img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="600" alt="Data Analytics Dashboard Animation">
 
 </div>
 
@@ -37,13 +37,9 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,py,tableau,ex,gmail,github&perline=6" />
+</a>
 
 </div>
 
