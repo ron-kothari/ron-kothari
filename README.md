@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Data Analytics Banner">
+<img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="700" alt="3D Data Analytics Dashboard Animation">
 
 <br/><br/>
 
@@ -14,6 +14,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
 
+</div>
+
 ---
 
 ## 🧭 About Me
@@ -22,18 +24,18 @@ I am studying Computer Science and looking for full time roles in Business Analy
 
 I like taking messy data and turning it into something a business can actually use. Most of that work sits in this GitHub, spread across SQL projects, Power BI dashboards, and Business Analyst documentation. Take a look around and see what I have been building.
 
-<p align="center">
-  🔭 Currently building out my data analytics portfolio and applying to full time roles<br/>
-  🌱 Sharpening my Python and DAX skills project by project<br/>
-  💬 Ask me about Power BI data modeling, SQL querying, or business requirements documentation<br/>
-  ⚽️ Chess ♟️ Aviation ✈️ History 📖
-</p>
+- 🔭 Currently building out my data analytics portfolio and applying to full time roles
+- 🌱 Sharpening my Python and DAX skills project by project
+- 💬 Ask me about Power BI data modeling, SQL querying, or business requirements documentation
+- I love soccer ⚽️, chess ♟️, aviation ✈️ and history 📖
 
 If you want to talk about a project, an opportunity, or just want to collaborate, email me anytime or connect with me on LinkedIn. I am always happy to chat.
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -43,6 +45,8 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+</div>
+
 ---
 
 ## 📌 Featured Projects
@@ -50,7 +54,7 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 ### 📊 Business Intelligence Dashboards
 
 | Project | What it does |
-|:---:|:---:|
+|---|---|
 | [**AdventureWorks Power BI Dashboard**](https://github.com/ron-kothari/AdventureWorks-Power-BI-Dashboard-Project) | Star schema, custom DAX, and drill through for executive, regional, product, and customer level insight |
 | [**Maven Markets Power BI Dashboard**](https://github.com/ron-kothari/Maven-Markets-Power-BI-Dashboard-Project) | Two page dashboard covering sales performance, regional trends, and product detail across the USA, Mexico, and Canada |
 | [**Customer Retention & Churn Analytics**](https://github.com/ron-kothari/Customer-Retention-and-Churn-Analytics) | Full workflow from SQL to DAX, measuring retention, churn, and customer lifetime value |
@@ -60,7 +64,7 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 ### 🐍 Python & SQL Analysis
 
 | Project | What it does |
-|:---:|:---:|
+|---|---|
 | [**Spotify Analytics Dashboard**](https://github.com/ron-kothari/Spotify-Analysis-Dashboard-PowerBI-Project) | Power BI plus Python, with a custom heatmap and Spotify API album art |
 | [**IMDb / Netflix Data Analysis**](https://github.com/ron-kothari/IMDb-Data-Analysis-With-PowerBI-and-Python) | Genres, languages, and durations analyzed to uncover Netflix content trends |
 | [**Pizza Sales Analysis**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi) | A full year of pizza sales broken down by revenue, order patterns, and top products |
@@ -70,7 +74,7 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 ### 📋 Business Analyst Work
 
 | Project | What it does |
-|:---:|:---:|
+|---|---|
 | [**Customer Query Management System**](https://github.com/ron-kothari/Customer-Query-Management-System) | Full BA lifecycle from business problem to Agile delivery, using Jira and wireframes |
 | [**Requirement Documentation Examples**](https://github.com/ron-kothari/Requirements-Documentation-Examples) | Core BA documents built to BABOK standards for requirements tracing and stakeholder alignment |
 
@@ -82,6 +86,8 @@ I build interactive Tableau visualizations alongside my Power BI work.
 📍 [**View my Tableau Public profile**](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
 
 ---
+
+<div align="center">
 
 💼 Open to Business Analyst, IT Analyst, and Data Analyst roles  
 📩 Let us connect if you are hiring or just want to talk data
