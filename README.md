@@ -1,3 +1,5 @@
+<img src="https://marqueeinsights.com/wp-content/uploads/2023/10/glass.gif" width="100%" alt="Animated Power BI Data Analytics Dashboard">
+
 <div align="center">
 
 <img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="700" alt="3D Data Analytics Dashboard Animation">
