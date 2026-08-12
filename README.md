@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kothari/)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/ron-kothari/ron-kothari/main/graphic%20for%20readme.gif" width="350" alt="Data Analytics Animation">
 
