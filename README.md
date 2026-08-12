@@ -8,11 +8,11 @@
 
 ### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
 
-[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kothari/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kothari/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=0A66C2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
 
 </div>
 
@@ -37,9 +37,13 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,py,tableau,ex,gmail,github&perline=6" />
-</a>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
