@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="700" alt="3D Data Analytics Dashboard Animation">
-
-<br/><br/>
-
 # Hey, I am Ron <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
@@ -13,6 +9,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
+
+<img src="https://raw.githubusercontent.com/ron-kothari/ron-kothari/main/graphic%20for%20readme.gif" width="350" alt="Data Analytics Animation">
 
 </div>
 
