@@ -1,33 +1,102 @@
-# Hi, I am Ron 👋
+<div align="center">
 
-I am a recent Computer Science graduate from Toronto Metropolitan University with a minor in Finance, and I am currently looking for full time roles in IT Support, Business Analysis, or IT Analysis in the Greater Toronto Area. My background covers internships at Deloitte, Manulife, and Shopify, and I build projects here to practice turning raw data into something people can actually use to make decisions.
+# Hey, I am Ron 👋
 
-## 🛠️ What I Work With
+### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
 
-- SQL, Python, Java, C#
-- Power BI, Tableau, Power Query, DAX
-- Azure, Google Apps Script, automation workflows
+[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
+[![https://www.linkedin.com/in/ronit-kothari/](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![mailto:ron.kothari1@gmail.com](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
+
+</div>
+
+---
+
+## 🧭 About Me
+
+Studying Computer Science, actively looking for full time roles in Business Analysis, IT Analysis, and Data Analytics. I have interned across Deloitte, Manulife, and the Canadian Children's Book Centre, where I worked on incident management frameworks, stakeholder communication, and cross functional problem solving.
+
+I like taking messy, real world data and turning it into something a business can actually act on. Most of my recent work lives in this GitHub, split across SQL analysis, Power BI dashboards, and Business Analyst documentation.
+
+- 🔭 Currently building out my data analytics portfolio and applying to full time roles
+- 🌱 Sharpening my Python and DAX skills project by project
+- 💬 Ask me about Power BI data modeling, SQL querying, or business requirements documentation
+- I love soccer ⚽️, chess ♟️, aviation ✈️ and history 📖
+
+- If you want to talk about a project, an opportunity, or just want to collaborate, email me anytime or connect with me on LinkedIn. I am always happy to chat.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+---
 
 ## 📌 Featured Projects
 
-**[SQL and Power BI Portfolio](https://github.com/ron-kothari/SQL-and-PowerBI-Portfolio)** 📊
-Four projects covering SQL analysis and full Power BI dashboards, including a cycling club database, a Spotify trends analysis, and dashboards for three fictional companies.
+### 📊 Business Intelligence Dashboards
 
-**[Customer Retention and Churn Analytics](https://github.com/ron-kothari/Customer-Retention-and-Churn-Analytics)** 📉
-End to end SQL and Power BI project measuring customer retention, churn drivers, and lifetime value patterns.
+| Project | What it does |
+|---|---|
+| [**AdventureWorks Power BI Dashboard**](https://github.com/ron-kothari/AdventureWorks-Power-BI-Dashboard-Project) | Star schema, custom DAX, and drill through for executive, regional, product, and customer level insight |
+| [**Maven Markets Power BI Dashboard**](https://github.com/ron-kothari/Maven-Markets-Power-BI-Dashboard-Project) | Two page dashboard covering sales performance, regional trends, and product detail across the USA, Mexico, and Canada |
+| [**Customer Retention & Churn Analytics**](https://github.com/ron-kothari/Customer-Retention-and-Churn-Analytics) | Full workflow from SQL to DAX, measuring retention, churn, and customer lifetime value |
+| [**Sales Analytics Dashboard (DAX Heavy)**](https://github.com/ron-kothari/sales-analytics-dax-powerbi-dashboard) | Dynamic bookmarks and complex DAX for both executive and operational level tracking |
+| [**Superstore DAX & Star Schema Analysis**](https://github.com/ron-kothari/superstore-dax-and-star-schema-analysis) | 3 years of sales data modeled and visualized for executive decision making |
 
-**[Sapphire CQMS](https://github.com/ron-kothari/Customer-Query-Management-System)** 🗂️
-A simulated Business Analyst project covering a full customer query management system, from BRD and RTM through Agile sprint artifacts.
+### 🐍 Python & SQL Analysis
 
-**[Sales Analysis with SQL and Power BI](https://github.com/ron-kothari/Sales-Analysis-With-SQL-PowerBI)** 💰
-Cleaned and analyzed the AdventureWorks Sales dataset with T-SQL, then built an interactive Power BI dashboard covering sales, budget, and customer performance.
+| Project | What it does |
+|---|---|
+| [**Spotify Analytics Dashboard**](https://github.com/ron-kothari/Spotify-Analysis-Dashboard-PowerBI-Project) | Power BI plus Python, with a custom heatmap and Spotify API album art |
+| [**IMDb / Netflix Data Analysis**](https://github.com/ron-kothari/IMDb-Data-Analysis-With-PowerBI-and-Python) | Genres, languages, and durations analyzed to uncover Netflix content trends |
+| [**Pizza Sales Analysis**](https://github.com/ron-kothari/pizza-sales-analysis-with-sql-powerbi) | A full year of pizza sales broken down by revenue, order patterns, and top products |
+| [**Spotify Top 50 Tracks (SQL)**](https://github.com/ron-kothari/Spotify-Top-50-Tracks-Analysis-SQL-Data-Analysis-Project) | SQL deep dive into the audio patterns behind what makes a song a hit |
+| [**Cycling Club Relational Database**](https://github.com/ron-kothari/Cycling-Club-Data-Analysis-SQL) | Relational database covering members, bikes, and track times, queried for activity trends |
 
-**[AdventureWorks SQL and Power BI](https://github.com/ron-kothari/AdventureWorks-SQL-PowerBI)** 🚲
-A full analytics build on the AdventureWorks dataset, from SQL data cleaning to a three page interactive dashboard.
+### 📋 Business Analyst Work
 
-**[Requirements Documentation Examples](https://github.com/ron-kothari/Requirements-Documentation-Examples)** 📄
-Core BA deliverables including a requirements traceability matrix and business glossary, built to BABOK standards.
+| Project | What it does |
+|---|---|
+| [**Customer Query Management System**](https://github.com/ron-kothari/Customer-Query-Management-System) | Full BA lifecycle from business problem to Agile delivery, using Jira and wireframes |
+| [**Requirement Documentation Examples**](https://github.com/ron-kothari/Requirements-Documentation-Examples) | Core BA documents built to BABOK standards for requirements tracing and stakeholder alignment |
 
-## 📫 Let's Connect
+---
 
-Open to full time opportunities in Business Analysis, IT Analysis, and IT Support. Feel free to check out my repos or reach out.
+## 🎨 Also on Tableau
+
+I build interactive Tableau visualizations alongside my Power BI work.
+📍 [**View my Tableau Public profile**](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ronit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ron-kothari&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ron-kothari&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+💼 Open to Business Analyst, IT Analyst, and Data Analyst roles
+📩 Let us connect if you are hiring or just want to talk data
+
+</div>
