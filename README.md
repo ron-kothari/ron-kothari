@@ -1,16 +1,18 @@
 <div align="center">
 
-# Hey, I am Ron <img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/wave.gif" width="30">
+# Hey, I am Ron <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
 
-[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoSize=auto)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/ronit-kothari/)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:ron.kothari1@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kothari/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=0A66C2&style=for-the-badge)
 
-<img src="https://raw.githubusercontent.com/gist/94a5b1c73b3541bb8e5f/raw/dashboard.gif" width="450">
+<br/>
+
+<img src="https://cdn.dribbble.com/users/20368/screenshots/3960206/media/f57c2a71d79a263884e9334033284000.gif" width="600" alt="Data Analytics Dashboard Animation">
 
 </div>
 
@@ -35,13 +37,13 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -80,14 +82,14 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 
 ## 🎨 Also on Tableau
 
-I build interactive Tableau visualizations alongside my Power BI work.
+I build interactive Tableau visualizations alongside my Power BI work.  
 📍 [**View my Tableau Public profile**](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
 
 ---
 
 <div align="center">
 
-💼 Open to Business Analyst, IT Analyst, and Data Analyst roles
+💼 Open to Business Analyst, IT Analyst, and Data Analyst roles  
 📩 Let us connect if you are hiring or just want to talk data
 
 </div>
