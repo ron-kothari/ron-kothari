@@ -1,14 +1,16 @@
 <div align="center">
 
-# Hey, I am Ron 👋
+# Hey, I am Ron <img src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/wave.gif" width="30">
 
 ### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
 
-[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
-[![https://www.linkedin.com/in/ronit-kothari/](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![mailto:ron.kothari1@gmail.com](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Tableau](https://img.shields.io/badge/Tableau-Public_Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoSize=auto)](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/ronit-kothari/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:ron.kothari1@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ron-kothari&color=blue&style=for-the-badge)
+
+<img src="https://raw.githubusercontent.com/gist/94a5b1c73b3541bb8e5f/raw/dashboard.gif" width="450">
 
 </div>
 
@@ -25,7 +27,7 @@ I like taking messy data and turning it into something a business can actually u
 - 💬 Ask me about Power BI data modeling, SQL querying, or business requirements documentation
 - I love soccer ⚽️, chess ♟️, aviation ✈️ and history 📖
 
-- If you want to talk about a project, an opportunity, or just want to collaborate, email me anytime or connect with me on LinkedIn. I am always happy to chat.
+If you want to talk about a project, an opportunity, or just want to collaborate, email me anytime or connect with me on LinkedIn. I am always happy to chat.
 
 ---
 
