@@ -90,9 +90,6 @@ I build interactive Tableau visualizations alongside my Power BI work.
 📩 Let us connect if you are hiring or just want to talk data
 
 </div>
----
-
-
 <div align="center">
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ron.kothari/vizzes)
