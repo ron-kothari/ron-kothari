@@ -4,9 +4,9 @@
 
 ### Business & Data Analyst | Power BI, SQL, Python | Turning raw data into decisions
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ron.kothari/vizzes)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-kothari/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
+[![**Tableau**](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ron.kothari/vizzes)
+[![**LinkedIn**](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-kothari/)
+[![**Gmail**](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
 
 <img src="https://raw.githubusercontent.com/ron-kothari/ron-kothari/main/graphic%20for%20readme.gif" width="350" alt="Data Analytics Animation">
@@ -92,8 +92,8 @@ I build interactive Tableau visualizations alongside my Power BI work.
 </div>
 <div align="center">
 
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ron.kothari/vizzes)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-kothari/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
+[![**Tableau**](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ron.kothari/vizzes)
+[![**LinkedIn**](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ron-kothari/)
+[![**Gmail**](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ron.kothari1@gmail.com)
 
 </div>
