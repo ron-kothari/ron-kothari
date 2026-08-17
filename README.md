@@ -91,11 +91,7 @@ I build interactive Tableau visualizations alongside my Power BI work.
 
 </div>
 ---
-## My Email
 
-[**My Gmail: ron.kothari1@gmail.com **](mailto:ron.kothari1@gmail.com)
-
----
 
 <div align="center">
 
