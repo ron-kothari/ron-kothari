@@ -91,6 +91,10 @@ I build interactive Tableau visualizations alongside my Power BI work.
 
 </div>
 
+## My Email
+
+[**My Gmail**](mailto:ron.kothari1@gmail.com)
+
 <div align="center">
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/ron.kothari/vizzes)
