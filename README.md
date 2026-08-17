@@ -80,7 +80,7 @@ If you want to talk about a project, an opportunity, or just want to collaborate
 ## 🎨 Also on Tableau
 
 I build interactive Tableau visualizations alongside my Power BI work.  
-📍 [**View my Tableau Public profile**](https://public.tableau.com/app/profile/ronit.kothari/vizzes)
+📍 [**View my Tableau Public profile**](https://public.tableau.com/app/profile/ron.kothari/vizzes)
 
 ---
 
@@ -88,5 +88,17 @@ I build interactive Tableau visualizations alongside my Power BI work.
 
 💼 Open to Business Analyst, IT Analyst, and Data Analyst roles  
 📩 Let us connect if you are hiring or just want to talk data
+
+</div>
+
+<div align="center">
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
