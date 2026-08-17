@@ -90,10 +90,12 @@ I build interactive Tableau visualizations alongside my Power BI work.
 📩 Let us connect if you are hiring or just want to talk data
 
 </div>
-
+---
 ## My Email
 
-[**My Gmail**](mailto:ron.kothari1@gmail.com)
+[**My Gmail: ron.kothari1@gmail.com **](mailto:ron.kothari1@gmail.com)
+
+---
 
 <div align="center">
 
